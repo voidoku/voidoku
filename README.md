@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a passionate Data Science and AI.
 [Portfolio Website](https://voidoku.github.io/)
 
 ## About Me
-🎓 Studying Computer Information Systems in Tribhuvan University 
-💼 Aspiring to be a top-notch AI Engineer  
-📈 Passionate about Finance, AI, and Farming 
+🎓 Studying Computer Information Systems in Tribhuvan University <br>
+💼 Aspiring to be a top-notch AI Engineer   <br>
+📈 Passionate about Finance, AI, and Farming  <br>
 
 ## My Skills
-**Programming Languages:** Python, C 
-**Data Analysis:** Loading...
-**Machine Learning:** Loading... 
-**Deep Learning:** Loading... 
-**Tools:** VS Code, GitHub 
+**Programming Languages:** Python, C  <br>
+**Data Analysis:** Loading... <br>
+**Machine Learning:** Loading...  <br>
+**Deep Learning:** Loading...  <br>
+**Tools:** VS Code, GitHub  <br>
 
 ## What I Do
-**AI/ML**  Loading...
+**AI/ML**  Loading... <br>
 **Financial Analysis:** Analyzing financial data to uncover trends and opportunities.  
  
 
