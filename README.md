@@ -4,8 +4,6 @@
 - My projects are available at [voidoku](voidoku.github.io)
 
 - Reach me **voidoku@gmail.com**
+-  My projects are available at [LinkedIn](https://linkedin.com/in/voidoku)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/voidoku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidoku" height="30" width="40" /></a>
 </p>
