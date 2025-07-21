@@ -1,5 +1,5 @@
-<h1 align="left">Hello, World!</h1>
-<h3 align="left">I'm VoiDoku and I create AI/ML Stuffs.</h3>
+<h1 align="left">Hello, World! I am VoiDoku.</h1>
+<h3 align="left">I build AI/ML stuffs.</h3>
 
 - My projects are available at [voidoku](voidoku.github.io)
 
