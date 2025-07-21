@@ -1,12 +1,12 @@
 ## Hi there! I'm Biswas 👋
-Welcome to my GitHub profile! I'm a passionate Data Science and AI.
+Welcome to my GitHub profile! I'm a passionate about Artificial Intelligence and Machine Learning.
 
 [Portfolio Website](https://voidoku.github.io/)
 
 ## About Me
-🎓 Studying Computer Information Systems in Tribhuvan University <br>
+🎓 Studying B.Sc. Computer Science and Information Technology in Tribhuvan University <br>
 💼 Aspiring to be a top-notch AI Engineer   <br>
-📈 Passionate about Finance, AI, and Farming  <br>
+📈 Passionate about Artificial Intelligence and Machine Learning  <br>
 
 ## My Skills
 **Programming Languages:** Python, C  <br>
@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science and AI.
 **Tools:** VS Code, GitHub  <br>
 
 ## What I Do
-**AI/ML**  Loading... <br>
-**Financial Analysis:** Analyzing financial data to uncover trends and opportunities.  
+**Loading...** 
  
 
 ## Let's Connect! 
